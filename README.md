@@ -14,5 +14,3 @@
 >
 >**무료 버전**으로 우리가 만들어보려 한다
 
-## 기능 명세서
-<img width="753" alt="image" src="https://github.com/GSMIOTjgh/Delivery/assets/132252115/f3d4848f-f087-4cf3-bf28-2114ab8098bf">
